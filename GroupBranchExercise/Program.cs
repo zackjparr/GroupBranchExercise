@@ -8,6 +8,7 @@ namespace GroupBranchExercise
         {
             Console.WriteLine("This is a test project.");
             Console.WriteLine("Or is it?");
+            Console.WriteLine("It is.");
         }
     }
 }
