@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZParr\\source\\repos\\GroupBranchExercise\\GroupBranchExercise\\GroupBranchExercise.csproj": {}
+    "C:\\Users\\CCHRISTIAN1\\OneDrive - Knex\\Documents\\DevBuild\\Weeks\\ZackProjectTest\\GroupBranchExercise\\GroupBranchExercise\\GroupBranchExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZParr\\source\\repos\\GroupBranchExercise\\GroupBranchExercise\\GroupBranchExercise.csproj": {
+    "C:\\Users\\CCHRISTIAN1\\OneDrive - Knex\\Documents\\DevBuild\\Weeks\\ZackProjectTest\\GroupBranchExercise\\GroupBranchExercise\\GroupBranchExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZParr\\source\\repos\\GroupBranchExercise\\GroupBranchExercise\\GroupBranchExercise.csproj",
+        "projectUniqueName": "C:\\Users\\CCHRISTIAN1\\OneDrive - Knex\\Documents\\DevBuild\\Weeks\\ZackProjectTest\\GroupBranchExercise\\GroupBranchExercise\\GroupBranchExercise.csproj",
         "projectName": "GroupBranchExercise",
-        "projectPath": "C:\\Users\\ZParr\\source\\repos\\GroupBranchExercise\\GroupBranchExercise\\GroupBranchExercise.csproj",
-        "packagesPath": "C:\\Users\\ZParr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZParr\\source\\repos\\GroupBranchExercise\\GroupBranchExercise\\obj\\",
+        "projectPath": "C:\\Users\\CCHRISTIAN1\\OneDrive - Knex\\Documents\\DevBuild\\Weeks\\ZackProjectTest\\GroupBranchExercise\\GroupBranchExercise\\GroupBranchExercise.csproj",
+        "packagesPath": "C:\\Users\\CCHRISTIAN1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CCHRISTIAN1\\OneDrive - Knex\\Documents\\DevBuild\\Weeks\\ZackProjectTest\\GroupBranchExercise\\GroupBranchExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ZParr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CCHRISTIAN1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
